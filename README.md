@@ -1,4 +1,4 @@
-## Hi there 👋
+## About Me
 
 <!--
 **RussellACasad/RussellACasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Russell Casad. I am a new developer who mostly focuses in C#, Python, and Java. I'm currently in school right now and trying to learn how to do more with Github! 
